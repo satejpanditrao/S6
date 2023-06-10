@@ -30,7 +30,9 @@ IF LR = 1.0, the Loss graph is as follows.
 ![image](https://github.com/satejpanditrao/S6/assets/20858724/c61ec712-9d9e-4762-9b5c-932148209131)
 
 
-IF LR = 1]2.0, the Loss graph is as follows.
+IF LR = 2.0, the Loss graph is as follows.
+
+
 
 ![image](https://github.com/satejpanditrao/S6/assets/20858724/4ef994f3-2399-475e-b54b-4a230dfb2e0d)
 
