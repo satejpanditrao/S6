@@ -36,6 +36,15 @@ IF LR = 2.0, the Loss graph is as follows.
 
 ![image](https://github.com/satejpanditrao/S6/assets/20858724/4ef994f3-2399-475e-b54b-4a230dfb2e0d)
 
+# Part 2
+S6.ipynb file is attached for Part 2.
+This file contains the code for the model.
+Backpropogation, Drop Out have been used, Relu has been used as an activation function.
+Accuracy is around 99%.
+Fully Conected Layer is also added.
+Less than 20 epochs.
+
+
 
 
 
