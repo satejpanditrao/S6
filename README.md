@@ -1,4 +1,4 @@
-# neural network
+# Part 1
 ![image](https://github.com/satejpanditrao/S6/assets/20858724/f9262fb6-2fa1-4e09-a17a-4214ab22d552)
 The excel file consists of details about the Backpropagation work.
 i1 and i2 are the inupts and weights have been given to them. Error and path small errors are taking to finally get accumulated at E_Total.
